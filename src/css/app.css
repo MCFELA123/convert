@@ -107,8 +107,8 @@
     width: inherit;
     height: 3.3em;
     overflow: hidden;
-    background: #081d29;
-    box-shadow: 0 0 0 1px #0f3042c3;
+    background: #06151e;
+    box-shadow: 0 0 0 1px #0f304254;
     border-radius: 10px;
 }
 
@@ -128,7 +128,7 @@
     border: unset;
     font-size: 1em;
     color: #ffffff9c;
-    border-right: 1px solid #ffffff2f;
+    border-right: 1px solid #ffffff38;
     background: unset;
     text-indent: 1.5em;
 }
@@ -157,7 +157,7 @@
 .layered .lay {
     width: 3em;
     height: 3em;
-    background: #2a3e51;
+    background: #30475c;
     border-radius: 3em;
     cursor: pointer;
 }
@@ -203,12 +203,12 @@
 
 .submit-container .submit:first-child {
     width: 85%;
-    background: #5179ff;
+    background: #5191ff;
 }
 
 .submit-container .submit:last-child {
     width: 15%;
-    background: #5179ff;
+    background: #5191ff;
 }
 
 .submit-container .submit:first-child:hover {
@@ -259,10 +259,10 @@
         right: 0;
     }
     .input-class {
-        width: 23em
+        width: 20em
     }
     .submit-container {
-        width: 23em;
+        width: 17em;
     }
 }
 
